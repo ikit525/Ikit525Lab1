@@ -1,6 +1,6 @@
 # IKIT-525 Laboratorna №1
 
-How to make commit:
+### How to make commit:
 ```bash
 git clone https://github.com/ikit525/Ikit525Lab1.git
 ```
